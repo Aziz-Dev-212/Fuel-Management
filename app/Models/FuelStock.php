@@ -16,3 +16,4 @@ class FuelStock extends Model {
         return $this->belongsTo(FuelType::class);
     }
 }
+
