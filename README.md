@@ -1,5 +1,5 @@
 
-### **Step 1: Install Laravel Project
+### **Step 1: Install Laravel Project**
 
 ```bash
 
@@ -10,6 +10,7 @@ composer update
 npm install 
 
 ```
+
 ---
 
 ### **Step 2: Configure Environment**
@@ -25,6 +26,7 @@ php artisan key:generate
 php artisan migrate --seed
 
 ```
+
 ---
 
 ### **Step 3: Run Laravel Server and Breeze**
@@ -49,5 +51,3 @@ Open **`http://127.0.0.1:8000`** in your browser.
  Email : test@example.com
  password : password123
 ```
-
----
