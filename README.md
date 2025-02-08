@@ -1,5 +1,5 @@
 
-### **Step 1: Install Laravel Project**
+### **Step 1: Install Laravel and Breeze with tailwindcss Dependencies**
 
 ```bash
 
